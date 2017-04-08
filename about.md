@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a financial analyst based in China. I am also a fan of technology, software, and cyber security.
+I like Github, because it is an open community.
 
-### More Information
+### Tygem
 
-A place to include any other types of information that you'd like to include about yourself.
+Tygem is the best online platform for playing Go games. I am currently a 2 Dan player. Welcome to challenge me for a game.
 
-### Contact me
+### Follow me
 
-[email@domain.com](mailto:email@domain.com)
+Please feel free to follow me on Github, and leave your valuable comments.
