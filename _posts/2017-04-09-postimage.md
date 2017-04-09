@@ -1,1 +1,1 @@
-![](https://github.com/watertruth/watertruth.github.io/blob/master/images/config.png)
+![](https://github.com/watertruth/assets/blob/master/exxon%20mobil.gif?raw=true)
