@@ -2,5 +2,6 @@ One of the keys for option price calculation is modelling the implied volatility
 ![](https://github.com/watertruth/assets/blob/master/implied%20volatility%20surface%20demonstration.png?raw=true)
 
 We are calculating the option price in the future. To accomplish this, we need to predict the implied volatility.
+
 Step1:get historical implied volatility:
 ![](https://github.com/watertruth/assets/blob/master/exxon%20mobil.gif?raw=true)
