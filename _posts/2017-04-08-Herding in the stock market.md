@@ -1,4 +1,5 @@
-In Chinese stock market, the majority of the participants are individual traders rather than institutions. This is a key difference between Chinese market and advanced markets. Because of this, the Chinese market also exhibits a higher degree of herding effect.
+Chinese stock market exhibits a higher degree of herding effect than advanced markets.
+In Chinese stock market, the majority of the participants are individual traders rather than institutions. 
 
 ![](https://raw.githubusercontent.com/watertruth/assets/master/Herd.jpg)
 
