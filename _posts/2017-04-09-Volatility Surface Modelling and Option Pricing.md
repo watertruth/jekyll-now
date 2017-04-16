@@ -5,3 +5,5 @@ We are calculating the option price in the future. To accomplish this, we need t
 
 Step1:get historical implied volatility:
 ![](https://github.com/watertruth/assets/blob/master/exxon%20mobil.gif?raw=true)
+
+Step2:use ARIMA model to predict implied volatility in the future.
